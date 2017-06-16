@@ -1,4 +1,4 @@
-title: generic-python-key-value-pairs
+title: Using ket:value pairs in Python
 hero_image: images/banner.png
 description: generic-python-key-value-pairs description
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
@@ -9,4 +9,4 @@ ingredient: false
 interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
 technologies: "scratch, python, html/css, micro:bit"
 steps:
-  - title: Step one
+  - title: Using key:value pairs in Python
