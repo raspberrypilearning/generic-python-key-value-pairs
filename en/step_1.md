@@ -1,4 +1,4 @@
-You can add and remove items from a dictionary quite easily. For instance, in the following dictionary:
+You can add and remove items from a dictionary quite easily. For instance, here is a simple dictionary.
 
 ```python
 band = {
@@ -9,11 +9,15 @@ band = {
 	}
 ```
 
-you can do the following to add or remove key:value pairs.
+You can do the following to add a key:value pairs to the dictionary.
 
+```python
+## adding key:value pairs
+band['yoko'] = 'vocals'
+```
+
+If you want to remove a key:value pair you can do the following.
 ```python
 ## removing key:value pairs
 del band['paul']
-## adding key:value pairs
-band['yoko'] = 'vocals'
 ```
