@@ -1,23 +1,24 @@
-You can add and remove items from a dictionary quite easily. For instance, here is a simple dictionary.
+Here is a dictionary of band members. The key is the first part (e.g. 'john') and its associated value is the second part (e.g. 'rhythm guitar').
 
 ```python
 band = {
-    'john' : 'rhythm guitar',
-    'paul' : 'base guitar',
-	'george' : 'lead guitar',
-    'ringo' : 'base guitar'
+  'john' : 'rhythm guitar',
+  'paul' : 'bass guitar',
+  'george' : 'lead guitar',
+  'ringo' : 'bass guitar'
 	}
 ```
 
-You can do the following to add a key:value pairs to the dictionary.
+Here's how to add a key:value pair to the dictionary:
 
 ```python
-## adding key:value pairs
+# Add a key:value pair
 band['yoko'] = 'vocals'
 ```
 
-If you want to remove a key:value pair you can do the following.
+Here's how to remove a key:value pair from the dictionary:
+
 ```python
-## removing key:value pairs
+# Remove a key:value pair
 del band['paul']
 ```
