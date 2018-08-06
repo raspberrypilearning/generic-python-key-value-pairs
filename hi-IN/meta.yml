@@ -1,13 +1,15 @@
-title: Python में key:value के जोड़े उपयोग करना
+---
+title: Using key:value pairs in Python
 hero_image: images/banner.png
-description: Python शब्दकोष और key:value जोड़े
+description: Python dictionaries and key:value pairs
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: false
-interests: “"
-technologies: “python”
+interests: ""
+technologies: "python"
 steps:
-  - title: Python में key:value के जोड़े उपयोग करना
+  - 
+    title: Using key:value pairs in Python

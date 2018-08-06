@@ -1,4 +1,4 @@
-以下为乐队成员的字典。**键**为第一部分（如“john”），其关联的**值**为第二部分（如“rhythm guitar”）。
+Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
 
 ```python
 band = {
@@ -6,17 +6,17 @@ band = {
   'paul' : 'bass guitar',
   'george' : 'lead guitar',
   'ringo' : 'bass guitar'
-	}
+    }
 ```
 
-下面显示了如何向字典添加键值对：
+Here's how to add a key:value pair to the dictionary:
 
 ```python
 # Add a key:value pair
 band['yoko'] = 'vocals'
 ```
 
-下面显示了如何从字典中移除键值对：
+Here's how to remove a key:value pair from the dictionary:
 
 ```python
 # Remove a key:value pair
