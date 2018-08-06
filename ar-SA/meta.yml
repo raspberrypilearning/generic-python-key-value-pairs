@@ -1,13 +1,15 @@
-title: استخدام أزواج المفتاح:القيمة في Python
+---
+title: Using key:value pairs in Python
 hero_image: images/banner.png
-description: القواميس وأزواج المفتاح:القيمة في Python
+description: Python dictionaries and key:value pairs
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: false
 interests: ""
 technologies: "python"
 steps:
-  - title: استخدام أزواج المفتاح:القيمة في Python
+  - 
+    title: Using key:value pairs in Python
