@@ -1,7 +1,7 @@
 ---
-title: Using key:value pairs in Python
+title: Het gebruik van key:value combinaties in Python
 hero_image: images/banner.png
-description: Python dictionaries and key:value pairs
+description: Python dictionaries (woordenboeken) en key:value (sleutelwaardes)
 original_url:
 theme: cc-prototype
 duration: 1
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: false
 interests: ""
-technologies: "python"
+technologies: "Python"
 steps:
   - 
-    title: Using key:value pairs in Python
+    title: Het gebruik van key:value combinaties in Python
