@@ -1,7 +1,7 @@
 ---
-title: Using key:value pairs in Python
+title: Usando os pares chave-valor em Python
 hero_image: images/banner.png
-description: Python dictionaries and key:value pairs
+description: Dicionários do Python e pares chave-valor
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "python"
 steps:
   - 
-    title: Using key:value pairs in Python
+    title: Usando os pares chave-valor em Python
