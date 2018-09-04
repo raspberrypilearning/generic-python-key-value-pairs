@@ -1,4 +1,4 @@
-Aqui temos um dicionário dos membros da banda. A **chave** é a primeira parte (por exemplo, 'john') e seu ** valor** associado é a segunda parte (por exemplo, 'guitarrista rítmico').
+Aqui temos um dicionário dos membros da banda. A **chave** é a primeira parte (por exemplo, 'john') e seu **valor** associado é a segunda parte (por exemplo, 'guitarrista rítmico').
 
 ```python
 banda = {   
