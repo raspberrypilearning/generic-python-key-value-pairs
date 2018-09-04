@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Hier is een woordenboek van bandleden. De **key** (sleutel) is het eerste deel (bijv. 'John') en de bijbehorende **value** (waarde) is het tweede deel (bijv. 'Ritmegitaar').
 
 ```python
 band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
+  'john' : 'ritmegitaar',
+  'paul' : 'basgitaar',
   'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+  'ringo' : 'basgitaar'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Hier lees je hoe je een key:value (sleutel en waarde) toevoegt aan het woordenboek:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Voeg een key:value toe
+band['yoko'] = 'zang'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Ga als volgt te werk om een ​​key:value uit het woordenboek te verwijderen:
 
 ```python
-# Remove a key:value pair
+# Een key:value verwijderen
 del band['paul']
 ```
