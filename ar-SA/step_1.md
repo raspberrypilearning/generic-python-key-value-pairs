@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+هنا قاموس لأعضاء الفرقة. **المفتاح** هو الجزء الأول (مثل "john")، **والقيمة** المرتبطة هي الجزء الثاني (على سبيل المثال "الغيتار الإيقاعي").
 
 ```python
 band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
+  'جون' : 'rhythm guitar',
+  'بول' : 'bass guitar',
+  'جورج' : 'lead guitar',
+  'رينغو' : 'bass guitar'
     }
 ```
 
-Here's how to add a key:value pair to the dictionary:
+فيما يلي كيفية إضافة مفتاح: زوجي القيمة إلى القاموس:
 
 ```python
-# Add a key:value pair
+# إضافة مفتاح: زوج القيمة
 band['yoko'] = 'vocals'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+فيما يلي كيفية حذف مفتاح: زوجي القيمة إلى القاموس:
 
 ```python
-# Remove a key:value pair
+# حذف مفتاح: زوج القيمة
 del band['paul']
 ```
