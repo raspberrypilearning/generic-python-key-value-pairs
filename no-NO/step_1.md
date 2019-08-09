@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Her er en ordbok av bandmedlemmer. **Nøkkelen** er den første delen (f.eks. 'john'), og den tilhørende **verdien** er den andre delen (f.eks. 'rytmegitar').
 
 ```python
 band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+  'john': 'rytmegitar',
+  'paul': 'bassgitar',
+  'george': 'hovedgitar',
+  'ringo': 'bassgitar'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Slik legger du til et nøkkel:verdi-par i ordboken:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Legg til et nøkkel:verdi-par
+band ['yoko'] = 'vokal'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Slik fjerner du et nøkkel:verdi-par fra ordlisten:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Fjern et nøkkel:verdi-par
+del band ['paul']
 ```
