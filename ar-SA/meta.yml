@@ -1,13 +1,14 @@
-title: استخدام أزواج المفتاح:القيمة في Python
+---
+title: استخدام المفتاح:ثنائيات القيم في Python
 hero_image: images/banner.png
-description: القواميس وأزواج المفتاح:القيمة في Python
+description: 'قواميس Python والمفتاح: ثنائيات القيم'
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: false
 interests: ""
 technologies: "python"
 steps:
-  - title: استخدام أزواج المفتاح:القيمة في Python
+  - title: استخدام المفتاح:ثنائيات القيم في Python
