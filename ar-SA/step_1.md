@@ -2,10 +2,10 @@
 
 ```python
 band = {
-  'جون' : 'rhythm guitar',
-  'بول' : 'bass guitar',
-  'جورج' : 'lead guitar',
-  'رينغو' : 'bass guitar'
+  'john' : 'rhythm guitar',
+  'paul' : 'bass guitar',
+  'george' : 'lead guitar',
+  'ringo' : 'bass guitar'
     }
 ```
 
