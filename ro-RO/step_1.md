@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Iată un dicționar al membrilor unei trupe. **Cheia** este prima parte (de exemplu, „John“), și are asociată ca **valoare** cea de a doua parte (de exemplu, „chitară ritmică“).
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+trupa = {
+  'john': 'chitara ritmica',
+  'paul': 'chitara bass',
+  'george': 'chitara principala',
+  'ringo': 'chitara bass'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Iată cum poți adăuga o pereche cheie:valoare în dicționar:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Adaugă o pereche cheie:valoare
+trupa['yoko'] = 'voce'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Iată cum poți șterge o pereche cheie:valoare din dicționar:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Șterge o pereche cheie:valoare
+del trupa['paul']
 ```
