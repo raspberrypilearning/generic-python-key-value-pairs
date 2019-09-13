@@ -1,7 +1,7 @@
 Oto słownik zawierający członków zespołu. **Klucz** to pierwsza część (np. "John"), a powiązana z nim **wartość** jest drugą częścią (na przykład „gitara rytmiczna”).
 
 ```python
-band = {
+zespol = {
   'john': 'gitara rytmiczna',
   'paul': 'gitara basowa',
   'george': 'gitara prowadząca',
@@ -9,16 +9,16 @@ band = {
 }
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Oto jak dodać parę klucz:wartość do słownika:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Dodaj parę klucz:wartość
+zespol['yoko'] = 'wokal'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Oto, jak usunąć parę klucz:wartość ze słownika:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Usuń parę klucz:wartość
+del zespol['paul']
 ```
