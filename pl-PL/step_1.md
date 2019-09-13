@@ -1,12 +1,12 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Oto słownik zawierający członków zespołu. **Klucz** to pierwsza część (np. "John"), a powiązana z nim **wartość** jest drugą częścią (na przykład „gitara rytmiczna”).
 
 ```python
 band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+  'john': 'gitara rytmiczna',
+  'paul': 'gitara basowa',
+  'george': 'gitara prowadząca',
+  'ringo': 'gitara basowa'
+}
 ```
 
 Here's how to add a key:value pair to the dictionary:
