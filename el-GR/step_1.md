@@ -2,21 +2,21 @@ Here is a dictionary of band members. The **key** is the first part (e.g. 'john'
 
 ```python
 band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+  'john': 'ρυθμική κιθάρα',
+  'paul': 'μπάσο',
+  'george': 'σόλο κιθάρα',
+  'ringo': 'μπάσο'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Mπορείς να προσθέσεις ένα ζευγάρι κλειδιού:τιμής στο λεξικό ως εξής:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Πρόσθεσε ένα ζεύγος κλειδιού:τιμής
+band['yoko'] = 'φωνητικά'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Έτσι μπορείς να καταργήσεις ένα ζεύγος κλειδιού:τιμής από το λεξικό:
 
 ```python
 # Remove a key:value pair
