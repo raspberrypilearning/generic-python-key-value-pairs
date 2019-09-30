@@ -1,4 +1,4 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Εδώ είναι ένα λεξικό των μελών της μπάντας. Το **κλειδί** είναι το πρώτο μέρος (π.χ. «john»), και η αντίστοιχη **τιμή** είναι το δεύτερο μέρος (π.χ. «ρυθμική κιθάρα»).
 
 ```python
 band = {
@@ -19,6 +19,6 @@ band['yoko'] = 'φωνητικά'
 Έτσι μπορείς να καταργήσεις ένα ζεύγος κλειδιού:τιμής από το λεξικό:
 
 ```python
-# Remove a key:value pair
+# Αφαίρεση ζεύγους κλειδιού:τιμής
 del band['paul']
 ```
