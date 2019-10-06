@@ -19,6 +19,6 @@ banda ['yoko'] = 'voz solista'
 A continuación, te mostramos cómo eliminar una pareja clave:valor del diccionario:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Eliminar una pareja clave:valor
+del banda ['paul']
 ```
