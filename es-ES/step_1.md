@@ -1,22 +1,22 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Aquí tienes un diccionario con los miembros de una banda de música. La **clave** es la primera parte (por ejemplo, 'john'), y su **valor** asociado es la segunda parte (por ejemplo, 'guitarra rítmica').
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+banda = {
+  'john': 'guitarra rítmica',
+  'paul': 'bajos',
+  'george': 'guitarra solista',
+  'ringo': 'bajos'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Así puedes añadir una pareja clave:valor al diccionario:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Añadir una pareja clave:valor
+banda ['yoko'] = 'voz solista'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+A continuación, te mostramos cómo eliminar una pareja clave:valor del diccionario:
 
 ```python
 # Remove a key:value pair
