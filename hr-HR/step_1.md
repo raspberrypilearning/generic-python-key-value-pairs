@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Pogledaj ovaj rječnik u kojem se nalaze imena članova benda. Prvi dio (npr. „ivan”) je **ključ**, a drugi dio (npr „ritam gitara”) je **vrijednost** s kojom je ključ povezan.
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+bend = {
+  'ivan': 'ritam gitara',
+  'marko': 'bas gitara',
+  'marin': 'glavna gitara',
+  'petar': 'bas gitara'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Evo kako dodati ključ:vrijednost par u rječnik:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Dodaj ključ:vrijednost par
+bend['ana'] = 'vokal'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Evo kako ukloniti ključ:vrijednost par iz rječnika:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Ukloni ključ:vrijednost par
+del bend ['marko']
 ```
