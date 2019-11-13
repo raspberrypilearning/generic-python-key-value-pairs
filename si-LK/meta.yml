@@ -1,10 +1,10 @@
 ---
-title: Using key:value pairs in Python
-hero_image: images/banner.png
-description: Python dictionaries and key:value pairs
+title: 'Python හි යතුරු:අගය(key : Value) යුගල(pairs) භාවිතා කිරීම'
+hero_image: images / banner.png
+description: Python ශබ්දකෝෂ(dictionaries) සහ යතුර:අගය(key:value) යුගල(pairs)
 original_url:
-theme: cc-prototype
-duration: 1
+theme: cc-ප්‍රදර්ශකය
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: "python"
 steps:
   - 
-    title: Using key:value pairs in Python
+    title: 'Python හි යතුරු:අගය(key : Value) යුගල(pairs) භාවිතා කිරීම'
