@@ -1,24 +1,23 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+다음은 밴드 멤버들의 사전입니다. **키** 첫번째 부분 (예를 들어 '존)이며, 그와 관련된 **값** 두번째 부분 (예를 들어'리듬 기타 ')입니다.
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+밴드 =
+ {  '존': '리듬 기타',
+  '폴': '베이스 기타',
+  '조지': '리드 기타',
+  '링고': '베이스 기타'}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+다음은 딕셔너리에 키:값 쌍을 추가하는 방법입니다: 
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# 키:값 쌍 추가
+band['요코'] = '보컬'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+다음은 딕셔너리에 키:값 쌍을 삭제하는 방법입니다: 
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# 키:값 쌍 제거
+del band ['폴']
 ```
