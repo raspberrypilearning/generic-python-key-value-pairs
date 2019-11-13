@@ -1,10 +1,10 @@
 ---
-title: Using key:value pairs in Python
+title: 파이썬에서 키:값 쌍으로 사용하기
 hero_image: images/banner.png
-description: Python dictionaries and key:value pairs
+description: 파이썬 딕셔너리와 키:값 쌍
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: "python"
 steps:
   - 
-    title: Using key:value pairs in Python
+    title: 파이썬에서 키:값 쌍 사용하기
