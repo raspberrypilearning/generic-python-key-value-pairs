@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+Ось словник, що містить учасників музичного гурту. **Ключ** — це перша частина (наприклад, 'джон'), а пов'язане з ним **значення** — це друга частина (наприклад, 'ритм-гітара').
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
+gurt = {
+  'джон' : 'ритм-гітара',
+  'пол' : 'бас-гітара',
+  'джордж' : 'соло-гітара',
+  'рінго' : 'бас-гітара'
     }
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Ось як додати пару ключ:значення до словника:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Додати пару ключ:значення
+gurt['йоко'] = 'вокал'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Ось як видалити пару ключ:значення зі словника:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Видалити пару ключ:значення
+del gurt['пол']
 ```
