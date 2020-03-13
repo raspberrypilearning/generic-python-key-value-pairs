@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+İşte burada müzik grubu üyelerine ait bir sözlük. **key** (anahtar) birinci kısımdır (örneğin; 'ipek') ve bununla ilişkili **value** (değer) ise ikinci kısımdır (örneğin 'ritim gitar').
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
+müzikgrubu = {
+  'ipek' : 'ritim gitar',
+  'ceyda' : 'bas gitar',
+  'volkan' : 'solo gitar',
+  'gülşen' : 'bas gitar'
     }
 ```
 
-Here's how to add a key:value pair to the dictionary:
+Burada sözlüğe nasıl anahtar:değer (key:value) eşleri ekleneceği gösteriliyor:
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# Bir anahtar:değer (key:value) eşi ekleyin
+müzikgrubu['yağmur'] = 'vokal'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+Burada sözlükten bir anahtar:değer (key:value) eşinin nasıl kaldırıldığı gösteriliyor:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# Anahtar:değer (key:value) eşini kaldır
+del müzikgrubu['naz']
 ```
