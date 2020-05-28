@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+यहाँ बैंड सदस्यों का एक शब्दकोष है। पहला भाग **की** है (जैसे 'जॉन'), और दूसरा भाग इसका संबद्ध **वैलु** है (जैसे 'ताल गिटार')।
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+बैंड = {
+  'जॉन': 'रिदम गिटार',
+  'पॉल': 'बास गिटार',
+  'जॉर्ज': 'लीड गिटार',
+  'रिंगो': 'बास गिटार'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+यहां एक की:वैलु (key:value) जोड़ी को शब्दकोश में जोड़ने का तरीका बताया गया है।
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+# एक की:वैलु (key:value) जोड़ी जोडे।
+बैंड ['योको'] = 'वोकल्स'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+यहां एक की:वैलु (key:value) जोड़ी को शब्दकोश से हटाने का तरीका बताया गया है:
 
 ```python
-# Remove a key:value pair
-del band['paul']
+# एक की:वैलु (key:value) जोड़ी हटाए
+डेल बैंड ['पॉल']
 ```
