@@ -1,9 +1,10 @@
+---
 title: 在 Python 中使用键值对
 hero_image: images/banner.png
 description: Python 字典和键值对
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false

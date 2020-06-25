@@ -1,24 +1,24 @@
-以下为乐队成员的字典。**键**为第一部分（如“john”），其关联的**值**为第二部分（如“rhythm guitar”）。
+这是乐队成员和分工的对照字典。 **键**是第一部分（例如“ john”）与它相对应的**值**是第二部分（例如“节奏吉他”）。
 
 ```python
 band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-	}
+  'john'： '节奏吉他'，
+  'paul'： '贝司'，
+  'george'： '主吉他'，
+  'ringo'： '贝司'
+}
 ```
 
-下面显示了如何向字典添加键值对：
+下面是如何将一个键和对应值添加到字典的方法：
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+＃添加一个键值对
+band['yoko'] ='vocals'
 ```
 
-下面显示了如何从字典中移除键值对：
+下面是如何将一个键值对从字典中删除的方法：
 
 ```python
-# Remove a key:value pair
+# 移除一个键值对
 del band['paul']
 ```
