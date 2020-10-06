@@ -1,7 +1,7 @@
 ---
-title: 'ಕೀಲಿಯನ್ನು ಬಳಸುವುದು: Python ಮೌಲ್ಯ ಜೋಡಿಗಳು'
+title: ಬಳಸುವುದು key:value Python ಜೋಡಿಗಳು
 hero_image: images/banner.png
-description: 'Python ನಿಘಂಟುಗಳು ಮತ್ತು ಕೀ: ಮೌಲ್ಯ ಜೋಡಿಗಳು'
+description: Python ನಿಘಂಟುಗಳು ಮತ್ತು key:value ಜೋಡಿಗಳು
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "python"
 steps:
   - 
-    title: 'ಕೀಲಿಯನ್ನು ಬಳಸುವುದು: Python ಮೌಲ್ಯ ಜೋಡಿಗಳು'
+    title: ಬಳಸುವುದು key:value Python ಜೋಡಿಗಳು
