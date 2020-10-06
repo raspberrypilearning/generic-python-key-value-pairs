@@ -13,12 +13,12 @@ Así puedes añadir una pareja clave:valor al diccionario:
 
 ```python
 # Añadir un par clave: valor
-banda['yoko'] = 'vocals'
+banda['yoko'] = 'vocales'
 ```
 
 Aquí te mostramos cómo eliminar una pareja clave:valor del diccionario:
 
 ```python
 # Eliminar un par clave:valor
-de la banda['paul']
+del banda['paul']
 ```
