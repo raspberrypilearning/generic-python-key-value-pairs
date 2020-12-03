@@ -1,24 +1,24 @@
-Here is a dictionary of band members. The **key** is the first part (e.g. 'john'), and its associated **value** is the second part (e.g. 'rhythm guitar').
+これはバンドメンバーのディクショナリー(辞書)です。 最初の部分(例えば 'ジョン')を**キー** と呼び、それに関連付けられた2番目の部分(例えば 'リズムギター')を **値** と呼びます。
 
 ```python
-band = {
-  'john' : 'rhythm guitar',
-  'paul' : 'bass guitar',
-  'george' : 'lead guitar',
-  'ringo' : 'bass guitar'
-    }
+バンド = {
+  'ジョン': 'リズムギター',
+  'ポール': 'ベースギター',
+  'ジョージ': 'リードギター',
+  'リンゴ': 'ベースギター'
+}
 ```
 
-Here's how to add a key:value pair to the dictionary:
+キー:値のペアをディクショナリー(辞書)に追加する方法は次のとおりです：
 
 ```python
-# Add a key:value pair
-band['yoko'] = 'vocals'
+#キー:値のペアを追加
+バンド['ヨーコ'] = 'ボーカル'
 ```
 
-Here's how to remove a key:value pair from the dictionary:
+キー:値のペアをディクショナリー(辞書)から削除する方法は次のとおりです：
 
 ```python
-# Remove a key:value pair
-del band['paul']
+#キー:値のペアを削除する
+del バンド['ポール']
 ```
