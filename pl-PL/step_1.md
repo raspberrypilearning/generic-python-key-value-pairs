@@ -1,4 +1,5 @@
-Oto słownik zawierający członków zespołu. **Klucz** to pierwsza część (np. "John"), a powiązana z nim **wartość** jest drugą częścią (na przykład „gitara rytmiczna”).
+Oto słownik zawierający członków zespołu. **Klucz** to pierwsza część (np. 'john'), a powiązana z nim **wartość** jest drugą częścią (na przykład 'gitara rytmiczna').
+
 
 ```python
 zespol = {
